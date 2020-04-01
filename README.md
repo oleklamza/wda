@@ -1,8 +1,4 @@
 # Wprowadzenie do algorytmów
 
 
-Będę tu sukcesywnie wrzucał materiały (prezentacje, zadania).
-
-## Prezentacje
-
-- [Wprowadzenie](aisd.0.wprowadzenie.pdf)
+Zapraszam tu: http://155.158.112.31/course/view.php?id=5
